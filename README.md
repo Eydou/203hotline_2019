@@ -1,9 +1,19 @@
 # 203hotline_2019
-203hotline epitech in go
+## Objectif
 
-100 % test
+Calculation of the probabilities of an overload of a hotline of 25 telephones with 3500 people who can call for 8 hours a day.
 
+## Algorithms
+
+Calcul avec 2 distributions: binomial et poisson
+
+## Language 
+Go
+
+## Test
+
+100% completed
 
 ## Authors
 
- **[Edouard Touch](https://github.com/Eydou)** -
+ **[Edouard Touch](https://github.com/Eydou)** - **[Alexis Lopes](https://github.com/LopesAlexis)**
