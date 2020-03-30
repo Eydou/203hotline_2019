@@ -6,4 +6,4 @@
 
 ## Authors
 
-* **Edouard Touch* - *Initial work* - [Edouard Touch](https://github.com/Eydou)
+ **Edouard Touch* - *Initial work* - [Edouard Touch](https://github.com/Eydou)
