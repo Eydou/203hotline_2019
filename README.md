@@ -5,7 +5,7 @@ Calculation of the probabilities of an overload of a hotline of 25 telephones wi
 
 ## Algorithms
 
-Calcul avec 2 distributions: binomial et poisson
+Distributions: binomial and poisson
 
 ## Language 
 Go
