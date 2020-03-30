@@ -7,9 +7,6 @@ Calculation of the probabilities of an overload of a hotline of 25 telephones wi
 
 Distributions: binomial and poisson
 
-## Language 
-Go
-
 ## Test
 
 100% completed
